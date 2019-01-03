@@ -5,7 +5,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/shuzheng/zheng.svg?style=social&label=Stars)](https://github.com/shuzheng/zheng)
 [![GitHub forks](https://img.shields.io/github/forks/shuzheng/zheng.svg?style=social&label=Fork)](https://github.com/shuzheng/zheng)
 
-交流QQ群：133107819、284280411、305155242🈵、528049386、157869467🈵、570766789🈵、601147566🈵、309985359🈵、336380857🈵、522723488、556447629、654558397🈵、392564561🈵、494594000🈵、494070275🈵、168267539🈵、652798487🈵、650979251🈵、622461564🈵、219381522🈵、487874426🈵、398342630🈵、205986087🈵、574153262🈵、606890936🈵、565434047🈵、680947971🈵、341884034🈵、562977817🈵、478962414🈵、679219230🈵、676766033🈵、621874750🈵、522903600🈵、524932879🈵、376261902🈵、481096887🈵、232104667🈵、637879277🈵、697575367🈵、702995203🈵、708665910🈵、697141239🈵、574057714🈵、631332162🈵、591739143🈵、731016871🈵、598738752🈵、748759166🈵、159816595(群内含各种工具、文档、视频教程下载)
 
 ## 前言
 
@@ -246,7 +245,6 @@ Spring+SpringMVC+Mybatis框架集成公共模块，包括公共配置、MybatisG
 - Jenkins [http://updates.jenkins-ci.org/download/war/](http://updates.jenkins-ci.org/download/war/ "Jenkins")
 - dubbo-admin-2.5.3 [http://download.csdn.net/detail/shuzheng5201314/9733652](http://download.csdn.net/detail/shuzheng5201314/9733652 "dubbo-admin-2.5.3")
 - dubbo-admin-2.5.4-SNAPSHOT-jdk8 [http://download.csdn.net/detail/shuzheng5201314/9733657](http://download.csdn.net/detail/shuzheng5201314/9733657 "dubbo-admin-2.5.4-SNAPSHOT-jdk8")
-- 更多资源请加QQ群
 
 ## 开发指南:
 
@@ -403,13 +401,9 @@ maven编译安装zheng/pom.xml文件即可
 ### 开发进度
 ![开发进度](project-bootstrap/progress.png)
 
-### 参与开发
-
-首先谢谢大家支持，如果你希望参与开发，欢迎通过[Github](https://github.com/shuzheng/zheng "Github")上fork本项目，并Pull Request您的commit。
 
 ### 常见问题
 
-- Eclipse下，dubbo找不到dubbo.xsd报错，不影响使用，如果要解决，可参考 [http://blog.csdn.net/gjldwz/article/details/50555922](http://blog.csdn.net/gjldwz/article/details/50555922)
 
 - 报zheng-xxx.jar包找不到,请按照文档编译顺序，将源代码编译并安装到本地maven仓库
 
@@ -422,73 +416,6 @@ maven编译安装zheng/pom.xml文件即可
 - linux下执行rpc-service脚本报“bin/bash^M 坏的解释器”，使用sed -i 's/\r$//' filename删除脚本中\r字符
 
 ## 附件
-
-### zheng相关博客
-
-- [zheng-1：环境搭建及项目部署](http://www.jianshu.com/p/b2fb42e17b58 "zheng-1：环境搭建及项目部署")
-
-- [zheng项目新建一个module学习学习](http://blog.csdn.net/u014449653/article/details/78294862 "zheng项目新建一个module学习学习")
-
-- [zheng项目系统简单的分析记录](http://blog.csdn.net/u014449653/article/details/78319135 "zheng项目系统简单的分析记录")
-
-- [zheng项目-从rpc-service开始！](http://blog.csdn.net/u014449653/article/details/78341171 "zheng项目-从rpc-service开始！")
-
-- [进击zheng项目zheng-umps-server](http://blog.csdn.net/u014449653/article/details/78355849 "进击zheng项目zheng-umps-server")
-
-- [zheng环境搭建](http://blog.csdn.net/u011781521/article/details/79012311 "zheng环境搭建")
-
-- [让zheng支持activiti工作流](http://blog.csdn.net/ctmold/article/details/79082406 "让zheng支持activiti工作流")
-
-- [让zheng更完美地支持ajax提交的json数据](http://blog.csdn.net/ctmold/article/details/79081483 "让zheng更完美地支持ajax提交的json数据")
-
-### 优秀文章和博客
-
-- [创业互联网公司如何搭建自己的技术框架](http://shuzheng5201314.iteye.com/blog/2330151 "创业互联网公司如何搭建自己的技术框架")
-
-- [微服务实战](https://segmentfault.com/a/1190000004634172 "微服务实战")
-
-- [单点登录原理与简单实现](http://shuzheng5201314.iteye.com/blog/2343910 "单点登录原理与简单实现")
-
-- [ITeye论坛关于权限控制的讨论](http://www.iteye.com/magazines/82 "ITeye论坛关于权限控制的讨论")
-
-- [RBAC新解：基于资源的权限管理(Resource-Based Access Control)](http://globeeip.iteye.com/blog/1236167 "RBAC新解：基于资源的权限管理(Resource-Based Access Control)")
-
-- [网站架构经验随笔](http://jinnianshilongnian.iteye.com/blog/2289904 "网站架构经验随笔")
-
-- [支付系统架构](http://shuzheng5201314.iteye.com/blog/2355431 "支付系统架构")
-
-- [Spring整合JMS](http://elim.iteye.com/blog/1893038 "Spring整合JMS")
-
-- [跟我学Shiro目录贴](http://jinnianshilongnian.iteye.com/blog/2018398 "跟我学Shiro目录贴")
-
-- [跟我学SpringMVC目录汇总贴](http://jinnianshilongnian.iteye.com/blog/1752171 "跟我学SpringMVC目录汇总贴")
-
-- [跟我学spring3 目录贴](http://jinnianshilongnian.iteye.com/blog/1482071 "跟我学spring3 目录贴")
-
-- [跟我学OpenResty(Nginx+Lua)开发目录贴](http://jinnianshilongnian.iteye.com/blog/2190344 "跟我学OpenResty(Nginx+Lua)开发目录贴")
-
-- [Redis中文网](http://www.redis.net.cn/ "Redis中文网")
-
-- [读懂Redis并配置主从集群及高可用部署](http://mp.weixin.qq.com/s?__biz=MzIxNTYzOTQ0Ng==&mid=2247483668&idx=1&sn=cd31574877d38cf7ff9c047b86c9bf23&chksm=979475eda0e3fcfb6b5006bcd19c5a838eca9e369252847dbdf97820bf418201dd75c1dadda3&mpshare=1&scene=23&srcid=0117KUiiITwi2ETRan16xRVg#rd "读懂Redis并配置主从集群及高可用部署")
-
-- [Redis哨兵-实现Redis高可用](http://redis.majunwei.com/topics/sentinel.html "Redis哨兵-实现Redis高可用")
-
-- [ELK(ElasticSearch, Logstash, Kibana)搭建实时日志分析平台](http://www.open-open.com/lib/view/open1451801542042.html "ELK(ElasticSearch, Logstash, Kibana)搭建实时日志分析平台")
-
-- [Nginx基本功能极速入门](http://xxgblog.com/2015/05/17/nginx-start/ "Nginx基本功能极速入门")
-
-- [mybatis-genarator 自定义插件](https://my.oschina.net/alexgaoyh/blog/702791 "mybatis-genarator 自定义插件")
-
-- [Elasticsearch权威指南（中文版）](https://es.xiaoleilu.com/510_Deployment/20_hardware.html "Elasticsearch权威指南（中文版）")
-
-- [springMVC对简单对象、Set、List、Map的数据绑定和常见问题.](http://blog.csdn.net/z_dendy/article/details/12648641 "springMVC对简单对象、Set、List、Map的数据绑定和常见问题.")
-
-- [如何细粒度地控制你的MyBatis二级缓存](http://blog.csdn.net/luanlouis/article/details/41800511 "如何细粒度地控制你的MyBatis二级缓存")
-
-- [Git 在团队中的最佳实践--如何正确使用Git Flow](hhttps://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow "Git 在团队中的最佳实践--如何正确使用Git Flow")
-
-- [做个男人，做个成熟的男人，做个有城府的男人](http://shuzheng5201314.iteye.com/blog/1387820 "做个男人，做个成熟的男人，做个有城府的男人")
-
 
 ### 在线小工具
 
